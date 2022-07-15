@@ -1,0 +1,23 @@
+#box{
+    background-color:bisque ;
+    height: 300px;
+    width: 700px;
+    visibility: hidden;
+    
+}
+body
+{
+    background-color: aqua;
+}
+#box.show{
+    visibility: visible;
+}
+#data{
+    color:white;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    padding: 4px 15px;
+    margin: 0px 15px;
+    }
+   
